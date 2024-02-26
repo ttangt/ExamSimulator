@@ -8,7 +8,7 @@
 
 ## Introduction
 
-We build an exam simulator GUI executable under a Java Maven project. This exam system serves as both server and client system. Java swing is used to design GUI layout. The application contains sign-up page, exam page, and result page. The user informations stored in mongo database. The exam is only allow user to register with an email ONCE.
+We build an exam simulator GUI executable under a Java Maven project. This exam system serves as both server and client system. Java Swing is used to design GUI layout. The application contains sign-up page, exam page, and result page. The user informations stored in mongo database. The exam is only allow user to register with an email ONCE.
 
 ## Demonstration
 
